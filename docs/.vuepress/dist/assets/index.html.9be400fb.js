@@ -1,8 +1,0 @@
-import{_ as n,o as s,c as a,a as e}from"./app.3dc0d091.js";const t={},o=e(`<h1 id="\u4F60\u597D" tabindex="-1"><a class="header-anchor" href="#\u4F60\u597D" aria-hidden="true">#</a> \u4F60\u597D</h1><ul><li>\u4F60\u662F\u8C01</li></ul><p>\u{1F389}</p><nav class="table-of-contents"><ul></ul></nav><div class="language-typescript ext-ts line-numbers-mode"><pre class="language-typescript"><code><span class="token keyword">import</span> <span class="token punctuation">{</span> defineUserConfig <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">&#39;vuepress&#39;</span>
-
-<span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token function">defineUserConfig</span> <span class="token punctuation">(</span><span class="token punctuation">{</span>
-  lang<span class="token operator">:</span> <span class="token string">&quot;zh-CN&quot;</span><span class="token punctuation">,</span>
-  title<span class="token operator">:</span> <span class="token string">&quot;\u4F60\u597D\uFF0CVuePress !&quot;</span><span class="token punctuation">,</span>
-  description<span class="token operator">:</span> <span class="token string">&quot;Hello H.z&quot;</span>
-<span class="token punctuation">}</span><span class="token punctuation">)</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,5),i=[o];function p(c,l){return s(),a("div",null,i)}var u=n(t,[["render",p],["__file","index.html.vue"]]);export{u as default};

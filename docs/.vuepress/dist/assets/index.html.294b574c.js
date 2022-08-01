@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as o,a as e}from"./app.b51b9018.js";const s={},c=e("p",null,"\u{1F389}",-1),_=e("nav",{class:"table-of-contents"},[e("ul")],-1),a=[c,_];function l(r,d){return n(),o("div",null,a)}var f=t(s,[["render",l],["__file","index.html.vue"]]);export{f as default};
