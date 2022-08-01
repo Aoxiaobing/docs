@@ -1,6 +1,7 @@
 import { defaultTheme, defineUserConfig } from 'vuepress'
 
 export default defineUserConfig ({
+  base: "/vuepress-note/",
   port: 9527,
   lang: "zh-CN",
   title: "🎉",
