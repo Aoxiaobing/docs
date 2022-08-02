@@ -9,7 +9,8 @@ export default defineUserConfig ({
   theme: defaultTheme({
     sidebarDepth: 2,
     sidebar: [
-      '/documents/uniapp.md'
+      '/documents/uniapp.md',
+      "/documents/github-pages.md"
     ]
   })
 })
